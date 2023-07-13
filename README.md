@@ -1,2 +1,3 @@
 # TestRepo
 Testing...
+This is a test repository to learn a few things.
